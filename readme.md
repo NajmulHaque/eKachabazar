@@ -11,10 +11,10 @@
 
 2.2: Guidence and reference: 
   These are some of the most popular e-commerce websites across the world that i get some help –
-  Amazon
-  eBay
-  Chaldal
-  Alibaba
+  Amazon,
+  eBay,
+  Chaldal,
+  Alibaba,
   Walmart
 
 2.3 User Interface:
