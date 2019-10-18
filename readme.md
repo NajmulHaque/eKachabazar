@@ -18,7 +18,8 @@
   Walmart
 
 2.2 User Interface: 
-  <img src="/oil.jpg"/> 
-  <img src="/screenshot2.png"/> 
-  <img src="/screenshot3.png"/> 
+  <img src="\images\oil.jpg"/> 
+  <img src="\images\screenshot1.png"/> 
+  <img src="\images\screenshot2.png"/> 
+  <img src="\images\screenshot3.png"/> 
 2.3
