@@ -20,7 +20,8 @@
 2.3 User Interface:-
  
   <img src="screenshot1.png"/> 
-
+               Image 1   
   <img src="screenshot2.png"/> 
-  
+               Image 2
   <img src="screenshot3.png"/> 
+               Image 3
