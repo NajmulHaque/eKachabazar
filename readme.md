@@ -17,7 +17,7 @@
 
 #### 2.3 User Interface:-
  
-  <img src="kachabazar.png"/>
+  <img src="kachabazar2.png"/>
 
 #### (2.2) Use of Technology and Language:
 
